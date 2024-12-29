@@ -1,0 +1,12 @@
+[
+    {
+        "id": "1",
+        "summary": "Meeting",
+        "description": "No agenda here"
+    },
+    {
+        "id": "2",
+        "summary": "Workshop",
+        "description": "アジェンダあり"
+    }
+]
